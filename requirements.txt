@@ -1,1 +1,3 @@
 ultralytics
+h5py
+numpy
