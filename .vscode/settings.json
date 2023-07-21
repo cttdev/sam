@@ -1,0 +1,16 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/cttew/code/primer/ws/devel/lib/python3/dist-packages",
+        "/home/cttew/code/tf_bag/ws/devel/lib/python3/dist-packages",
+        "/home/cttew/code/deep_panther/ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/cttew/code/primer/ws/src/primer/primer/../panther_compression"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/cttew/code/primer/ws/devel/lib/python3/dist-packages",
+        "/home/cttew/code/tf_bag/ws/devel/lib/python3/dist-packages",
+        "/home/cttew/code/deep_panther/ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/cttew/code/primer/ws/src/primer/primer/../panther_compression"
+    ]
+}
